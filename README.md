@@ -2,10 +2,9 @@
 I´m Web Front End Developer 📚<br>
 Currently learning Java and MySQL 🤓<br>
 
-I made a Java ♨ career (180h) at ITMaster, <br>
-some YouTube courses about HTML, CSS, Javascript and VueJs <br>
-I made a course at Udemy where I learned more about HTML, CSS and Javascript, <br>
-and I learned to use Sass and Gulp
+I made a Java ♨ career (180h) at ITMaster. <br>
+Some YouTube courses about HTML, CSS, Javascript and VueJs. <br>
+I also made a course at Udemy where I learned more about HTML, CSS and Javascript, and I learned to use Sass and Gulp
 
 E-Mail Contact: alvarez2003marcos@gmail.com
 
