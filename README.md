@@ -1,10 +1,10 @@
 <h1>Hi, I’m Marcos Alvarez</h1><br>
-I´m Web Front End Developer 📚<br>
-Currently learning Java and MySQL 🤓<br>
+Web Front End Developer 📚<br>
 
-I made a Java ♨ career (180h) at ITMaster. <br>
-Some YouTube courses about HTML, CSS, Javascript and VueJs. <br>
-I also made a course at Udemy where I learned more about HTML, CSS and Javascript, and I learned to use Sass and Gulp
+I did Udemy and YouTube React Courses <br>
+1+ year work experience 💻<br>
+Currently working at AIForce 🤖<br>
+Full Stack Web Developer certificate at ITBA 🎓<br>
 
 E-Mail Contact: alvarez2003marcos@gmail.com
 
