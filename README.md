@@ -2,8 +2,8 @@
 Web Front End Developer 📚<br>
 
 I did Udemy and YouTube React Courses <br>
-1+ year work experience 💻<br>
-Currently working at AIForce 🤖<br>
+2+ years work experience 💻<br>
+Currently working at Alvarez Freelance for Tecsopel SA 🤖<br>  
 Full Stack Web Developer certificate at ITBA 🎓<br>
 
 E-Mail Contact: alvarez2003marcos@gmail.com
